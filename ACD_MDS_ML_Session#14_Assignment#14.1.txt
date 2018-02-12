@@ -15,7 +15,8 @@ held back from the learner. Training set are distinct from Test set.
 What is the general principle of an ensemble method and what is bagging and boosting in ensemble method?
 The general principle of an ensemble method is to combine the predictions of several models built with a given learning 
 algorithm in order to improve robustness over a single model.  Bagging is a method in ensemble for improving unstable 
-estimation or classification schemes.  While boosting method are used sequentially to reduce the bias of the combined model. Boosting and Bagging both can reduce errors by reducing the variance term.
+estimation or classification schemes.  While boosting method are used sequentially to reduce the bias of the combined 
+model. Boosting and Bagging both can reduce errors by reducing the variance term.
 
 How can you avoid overfitting ?
 By using a lot of data overfitting can be avoided, overfitting happens relatively as you have a small dataset, 
